@@ -1,0 +1,4 @@
+{"_id":{"$oid":"676cab81924a9d435d366fbb"},"no kamar":"001","jenis kamar":"single","status kamar":"terisi","nama penghuni":"doni","biaya":"2.500.000"}
+{"_id":{"$oid":"676cab81924a9d435d366fbc"},"no kamar":"002","jenis kamar":"sharing","status kamar":"kosong","biaya":"1.750.000"}
+{"_id":{"$oid":"676cab81924a9d435d366fbd"},"no kamar":"003","jenis kamar":"single","status kamar":"terisi","penghuni":"arya","biaya":"2.500.000"}
+{"_id":{"$oid":"676cab81924a9d435d366fbe"},"no kamar":"004","jenis kamar":"sharing","status kamar":"terisi","penghuni":"dinda dan siti","biaya":"1.750.000"}

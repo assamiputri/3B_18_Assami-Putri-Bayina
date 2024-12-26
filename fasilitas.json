@@ -1,0 +1,3 @@
+{"_id":{"$oid":"676cad3e924a9d435d366fbf"},"no kamar":"001","fasilitas umum":"dapur,kamar mandi","fasilitas kamar":"ac,lemari,meja,wifi","kerusakan":"tidak ada","penghuni":"doni"}
+{"_id":{"$oid":"676cad3e924a9d435d366fc0"},"no kamar":"002","fasilitas umum":"dapur,kamar mandi","fasilitas kamar":"ac,lemari,meja,wifi","kerusakan":"tidak ada"}
+{"_id":{"$oid":"676cad3e924a9d435d366fc1"},"no kamar":"003","fasilitas umum":"dapur,kamar mandi","fasilitas kamar":"ac,lemari,meja,wifi","kerusakan":"ac","penghuni":"arya"}
